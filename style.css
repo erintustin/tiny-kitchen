@@ -21,18 +21,15 @@ a:hover {
     color: #006622;
 }
 
-
 table.container {
     background-color: #f2f2f2;
     background-image: none;
     margin-left: auto;
     margin-right: auto;
-    width: 60%;
+    width: 80%;
     height: 100%;
     border: thin solid black;
     padding: 5px;
-
-
 }
 
 tr.header td{
@@ -46,7 +43,7 @@ background-image: url("./images/headerbg.jpg");
 
 
 td.navigation {
-    width: 25%;
+    width: 20%;
     height: 500px;
     text-align: left;
     vertical-align: text-top;
