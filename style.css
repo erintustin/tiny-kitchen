@@ -2,6 +2,8 @@
 
 body {
     background-color: #006622;
+    background-image: url("./images/background.jpg");
+    background-repeate: repeat;
     width: 90%;
     font-family: "Helvetica", sans-serif;
 
@@ -22,6 +24,7 @@ a:hover {
 
 table.container {
     background-color: white;
+    background-image: none;
     margin-left: auto;
     margin-right: auto;
     width: 60%;
@@ -58,6 +61,7 @@ td.content {
 
 body.content {
     background-color: white;
+    background-image: none;
 }
 
 #tiny {
