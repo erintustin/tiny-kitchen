@@ -1,0 +1,46 @@
+/*style.css*/
+
+body {
+    background-color: #006622;
+    width: 90%;
+}
+
+table.container {
+    background-color: white;
+    font-family: "Helvetica", sans-serif;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%;
+    height: 100%;
+    border: thin solid black;
+    padding: 5px;
+
+}
+
+tr.header td{
+font-size: 50px;
+text-align: center;
+border: thin solid black;
+}
+
+td.navigation {
+    width: 25%;
+    height: 500px;
+    text-align: left;
+    vertical-align: text-top;
+    left-margin: auto;
+    right margin: auto;
+}
+ 
+td.content {
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    height: 500px;
+    background-color: white;
+   
+}
+
+body.content {
+    background-color: white;
+}
