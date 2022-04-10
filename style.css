@@ -46,3 +46,7 @@ td.content {
 body.content {
     background-color: white;
 }
+
+#tiny {
+    font-size: 25px;
+}
