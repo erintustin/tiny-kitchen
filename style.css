@@ -4,6 +4,19 @@ body {
     background-color: #006622;
     width: 90%;
     font-family: "Helvetica", sans-serif;
+
+}
+
+a:link {
+color: black;
+}
+
+a:visited {
+    color:black;
+}
+
+a:hover {
+    color: #006622;
 }
 
 
