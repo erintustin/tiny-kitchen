@@ -3,17 +3,19 @@
 body {
     background-color: #006622;
     width: 90%;
+    font-family: "Helvetica", sans-serif;
 }
+
 
 table.container {
     background-color: white;
-    font-family: "Helvetica", sans-serif;
     margin-left: auto;
     margin-right: auto;
     width: 60%;
     height: 100%;
     border: thin solid black;
     padding: 5px;
+
 
 }
 
